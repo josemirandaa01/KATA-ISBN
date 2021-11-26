@@ -91,7 +91,6 @@ C:\Users\Jose\source\repos\Prueba ISBN\Prueba ISBN\obj\Debug\netcoreapp3.1\Prueb
 C:\Users\Jose\source\repos\Prueba ISBN\Prueba ISBN\obj\Debug\netcoreapp3.1\Prueba ISBN.AssemblyInfoInputs.cache
 C:\Users\Jose\source\repos\Prueba ISBN\Prueba ISBN\obj\Debug\netcoreapp3.1\Prueba ISBN.AssemblyInfo.cs
 C:\Users\Jose\source\repos\Prueba ISBN\Prueba ISBN\obj\Debug\netcoreapp3.1\Prueba ISBN.csproj.CoreCompileInputs.cache
-C:\Users\Jose\source\repos\Prueba ISBN\Prueba ISBN\obj\Debug\netcoreapp3.1\Prueba ISBN.csproj.CopyComplete
 C:\Users\Jose\source\repos\Prueba ISBN\Prueba ISBN\obj\Debug\netcoreapp3.1\Prueba ISBN.dll
 C:\Users\Jose\source\repos\Prueba ISBN\Prueba ISBN\obj\Debug\netcoreapp3.1\Prueba ISBN.pdb
 C:\Users\Jose\source\repos\Prueba ISBN\Prueba ISBN\obj\Debug\netcoreapp3.1\Prueba ISBN.genruntimeconfig.cache
